@@ -1,0 +1,24 @@
+{
+  "name": "mootools-packager",
+  "version": "0.0.1",
+  "description": "MooTools Packager, to compile source files with dependencies",
+  "keywords": [
+    "mootools",
+    "compiler",
+    "packager"
+  ],
+  "homepage": "https://github.com/SergioCrisostomo/mootools-packager",
+  "license": {
+    "type": "MIT"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SergioCrisostomo/mootools-packager.git"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "js-yaml": "^3.2.2"
+  },
+  "devDependencies": {
+  }
+}
