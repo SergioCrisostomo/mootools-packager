@@ -1,6 +1,6 @@
 {
   "name": "mootools-packager",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "MooTools Packager, to compile source files with dependencies",
   "keywords": [
     "mootools",
